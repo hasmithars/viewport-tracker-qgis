@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/plugins/progress_tracker">
+    <file>icon.png</file>
+  </qresource>
+</RCC>
+
