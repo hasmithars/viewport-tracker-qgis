@@ -9,7 +9,7 @@ email=hasmitha.rs@gmail.com
 about=This plugin helps you keep track of areas of a map you have already looked at. Press 'P' to create a box around your current viewport. Boxes are saved in a temporary GPKG file that persists across sessions for crash recovery.
 
 tracker=
-repository=
+repository=https://github.com/hasmithars/viewport-tracker-qgis/
 category=Vector
 icon=icon.png
 experimental=False
